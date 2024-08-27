@@ -58,6 +58,8 @@ This repository contains a comprehensive analysis of the Electric Vehicle (EV) m
 ### 3. **Forecasting**
    - **ARIMA Model**: Forecasts future EV adoption trends based on historical data.
    - **Visualization**: Line plot comparing historical data and forecasted values.
+![Alt text](https://favtutor.com/resources/images/uploads/Credit_card_fraud_detection_flowchart.jpg)
+
 
 ## Requirements
 
